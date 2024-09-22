@@ -1,0 +1,38 @@
+.search_input{
+  width: 100%;
+  border: none;
+  outline: none;
+  border: 1px solid #8d8686;
+  padding: 5px 26px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.link{
+  text-decoration: none;
+  text-transform: capitalize;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+}
+.header-bg{
+  background-color: #dcebeba6;
+}
+.line{
+  width: 2px;
+    color: black;
+    height: 48px;
+    background: black;
+}
+.cart-img{
+  width:200px;
+  height: 220px;
+  margin: 0 auto;
+}
+.cart_count{
+  position: absolute;
+  top: -1px;
+  right: -12px;
+  font-size: 22px;
+}
